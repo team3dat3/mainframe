@@ -12,5 +12,7 @@ One machine to rule them all
 - [database](https://github.com/team3dat3/database) - A dockerized MySQL server designed to be deployed to an Ubuntu server (22.04) and configurable through GitHub. 
 - [reverse proxy](https://github.com/team3dat3/reverse-proxy) - A dockerized Nginx server designed to be deployed to an Ubuntu server (22.04) and configurable through GitHub. 
 
+### System Architecture
+
 ---
 ![Terminator GIF](https://media.tenor.com/e5cgR0H0E2IAAAAC/terminator-arnold.gif)
