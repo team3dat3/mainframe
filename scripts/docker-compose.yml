@@ -1,0 +1,20 @@
+# A simple docker compose file running three images at the same time.
+
+services:
+  frontend:
+    image: "frontend-client"
+    container_name: "frontend-client"
+    ports:
+    - "3000:3000"
+
+  backend:
+    image: "backend-client"
+    container_name: "backend-client"
+    ports:
+    - "8081:8081"
+
+  madsBackend:
+    image: "mads-backend-client"
+    container_name: "mads-backend-client"
+    ports:
+    - "8080:8080"
