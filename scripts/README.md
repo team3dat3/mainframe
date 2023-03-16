@@ -1,3 +1,5 @@
+# Scripts
+Find scripts for different occasions.
 
 #### [docker-deploy.yml](https://github.com/team3dat/mainframe/blob/main/actions/docker-deploy.yml)
 A GitHub actions workflow file that builds a Docker image based on the repository's Dockerfile and deploy it to an Ubuntu server.
