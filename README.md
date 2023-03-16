@@ -14,10 +14,10 @@ One machine to rule them all
 
 ### System Architecture
 
-#### Suggestion 1
+#### Suggestion 1 (Low scaleability)
 ![System Architecture Diagram 1](https://github.com/team3dat3/mainframe/blob/main/assets/System-Architecture.png)
 
-#### Suggestion 2
+#### Suggestion 2 (High scaleability)
 ![System Architecture Diagram 2](https://github.com/team3dat3/mainframe/blob/main/assets/suggestion.png)
 
 ---
